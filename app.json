@@ -1,6 +1,6 @@
 
 {
-  "name": "GOKU",
+  "name": "Pocong Manage Bot",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/ramadhani892/GOKU",
+  "repository": "hhttps://github.com/Azmy Gans/GOKU",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -50,7 +50,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "https://www.paypal.me/alahsiamy"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
