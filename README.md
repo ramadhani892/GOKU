@@ -1,3 +1,3 @@
-# ⚡Goku
+# ⚡ZAEN
 
-[![Deploy To Heroku](https://telegra.ph/file/eb7873c23cb1dee4fab5f.jpg)](https://dashboard.heroku.com/new?template=https://github.com/ramadhani892/GOKU)
+[![Deploy To Heroku](https://telegra.ph/file/9a0e8f7b735ae2aada957.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Zaen-ubot/ZAEN)
