@@ -29,13 +29,13 @@ You know how hard it is sometimes to manage group. So here is the solution for y
 • Activate Anti-spam protection in your BM by this command : 
   /antispam on 
 
-• Made from the source code of [LANDAK 🦔](t.me/maafgausahsokap)
+• Made from the source code of [Zaen](t.me/mafia_tobatz)
 
 • Click /help or Help button below to find out more about how to use me to my full potential.
 
 • Sponsored by :
-✓ [GROUP SUPPORT](t.me/OOTSPAMBOT)
-✓ [CHANNEL SUPPORT](t.me/RAMUBOTINFO)
+✓ [GROUP SUPPORT](t.me/Zaen_music)
+✓ [CHANNEL SUPPORT](t.me/Zaen_music)
 """
 
 

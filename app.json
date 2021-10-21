@@ -1,6 +1,6 @@
 
 {
-  "name": "GOKU",
+  "name": "ZAEN",
   "description": "Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/ramadhani892/GOKU",
+  "repository": "hhttps://github.com/Zaen-ubot/ZAEN",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -25,7 +25,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SyndicateTwenty4"
+      "value": "mafia_tobatz"
     },
   
     "URL": {
